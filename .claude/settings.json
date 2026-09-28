@@ -4,3 +4,4 @@
     "ask": ["Bash(git push:*)"],
     "deny": ["Read(./.env)", "Bash(git push --force:*)"]
   }
+}
