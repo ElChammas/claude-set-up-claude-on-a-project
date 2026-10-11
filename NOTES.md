@@ -10,3 +10,5 @@ What I left out:
 How I verified:
 - ran `claude --version`
 - started a fresh Claude session and used `/memory` (CLAUDE.md loaded) and `/permissions` (rules present)
+Prediction: I changed notes.js to add a formatTime helper, renamed dataFile → storeFile in lib/store.js, and fixed a typo in README.md.
+Claude summary:
